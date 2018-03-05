@@ -10,4 +10,4 @@ Code for remote controllable EV3 brick.
 The user interface for the robot:
 https://github.com/Naukkis/ev3-liberator-controller
 
-Made by Ville, Riku and Hannu
+Made by Ville, Hannu ja Riku
